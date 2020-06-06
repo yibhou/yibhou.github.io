@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title></title>
+        <link>https://mjazz.xyz</link>
+        <description></description>
+        <lastBuildDate>Sat, 06 Jun 2020 10:35:47 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://mjazz.xyz/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[《JavaScript权威指南》读书笔记（二）]]></title>
+            <link>https://mjazz.xyz/post/2020/02/20/javascript-definitive-guide-notes-2/</link>
+            <guid>https://mjazz.xyz/post/2020/02/20/javascript-definitive-guide-notes-2/</guid>
+            <pubDate>Thu, 20 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[本文目的是对原书（《JavaScript权威指南》第六版）中的一些错误或疑惑点进行纠正与补充，以及记录一些重要的知识点。文章中的标题序号与书籍目录序号保持一致。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《JavaScript权威指南》读书笔记（一）]]></title>
+            <link>https://mjazz.xyz/post/2020/02/08/javascript-definitive-guide-notes-1/</link>
+            <guid>https://mjazz.xyz/post/2020/02/08/javascript-definitive-guide-notes-1/</guid>
+            <pubDate>Sat, 08 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[[TOC]]]></description>
+            <enclosure url="https://mjazz.xyz/~@images/javascript-definitive-guide-notes/object2string.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
